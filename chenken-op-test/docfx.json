@@ -1,0 +1,39 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "chenken-op-test/**"
+        ],
+        "src": null,
+        "dest": null
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "chenken-op-test/**"
+        ],
+        "src": null,
+        "dest": null
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {},
+    "fileMetadata": {},
+    "template": [
+      "op.html"
+    ],
+    "dest": "chenken-op-test"
+  }
+}
