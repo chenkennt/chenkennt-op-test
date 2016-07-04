@@ -15,7 +15,20 @@
         "RestApi": "Content"
       },
       "build_entry_point": "op"
+    },
+    {
+      "docset_name": "test070401",
+      "build_source_folder": "test070401",
+      "build_output_subfolder": "test070401",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {},
+      "build_entry_point": "op"
     }
   ],
-  "skip_source_output_uploading": false
+  "notification_subscribers": [],
+  "branches_to_filter": [],
+  "skip_source_output_uploading": false,
+  "dependent_repositories": []
 }
